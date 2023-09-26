@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6Xen4.webp",
+            "title": "SkiBDy Toilet Speakerman Video 1",
+            "text_Content_": "In this video, SkiBDy Toilet Speakerman, a quirky superhero who always comes to the rescue when it comes to bathroom-related problems, is called into action. The video can be a blend of humor, creativity, and practicality, highlighting the fictional character's mission to make bathroom time more enjoyable"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6XNtf.webp",
+            "title": "SkiBDy Toilet Speakerman Video 2",
+            "text_Content_": "The video begins with a scene showing a person entering the bathroom, only to find that they forgot their phone or music player in the other room. They sigh in disappointment"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6XwwG.webp",
+            "title": "SkiBDy Toilet Speakerman Video 3",
+            "text_Content_": "Cut to a shot of SkiBDy's secret lair, which is a bathroom-themed superhero hideout. He receives an alert on his Toilet Speaker Signal Watch and dramatically transforms into SkiBDy Toilet Speakerman"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6Xjus.webp",
+            "title": "SkiBDy Toilet Speakerman Video 4",
+            "text_Content_": "SkiBDy Toilet Speakerman arrives at the bathroom in style, crashing through a door or swinging in through a window. He's dressed in a quirky superhero costume that includes a toilet seat cape, a plunger staff, and a speaker belt."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6XMFI.webp",
+            "title": "SkiBDy Toilet Speakerman Video 5",
+            "text_Content_": "With a flourish, SkiBDy Toilet Speakerman reveals his superpower - a portable Bluetooth speaker that attaches to the toilet paper holder. He plays the perfect bathroom playlist and starts dancing, turning the bathroom into a party zone"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6XW8X.webp",
+            "title": "SkiBDy Toilet Speakerman Video 6",
+            "text_Content_": "The person in the bathroom is surprised and delighted by SkiBDy's intervention. They start dancing along, and the mundane bathroom experience turns into a lively dance party."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6Xh9n.webp",
+            "title": "SkiBDy Toilet Speakerman Video 7",
+            "text_Content_": "As the person finishes up and leaves the bathroom, SkiBDy Toilet Speakerman gives them a thumbs up and makes a dramatic exit, promising to be there for all bathroom-related emergencies"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6XW8X.webp",
+            "title": "SkiBDy Toilet Speakerman Video 8",
+            "text_Content_": "The video concludes with a shot of SkiBDy Toilet Speakerman returning to his lair and a voiceover encouraging viewers to "never suffer a boring bathroom break again" and suggesting that they consider getting their own toilet speaker."
         }
     ]
 }
